@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on AhmadiHam.id</title>
+    <link>https://ahmadiham.id/tags/</link>
+    <description>Recent content in Tags on AhmadiHam.id</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@ahmadihamid.com (ahmadihamid)</managingEditor>
+    <webMaster>admin@ahmadihamid.com (ahmadihamid)</webMaster>
+    <copyright>Copyright &amp;copy; 2018 - Ahmadi Hamid</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadiham.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>development</title>
+      <link>https://ahmadiham.id/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://ahmadiham.id/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://ahmadiham.id/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://ahmadiham.id/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://ahmadiham.id/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://ahmadiham.id/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <author>admin@ahmadihamid.com (ahmadihamid)</author>
+      <guid>https://ahmadiham.id/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1 @@
+"# bebas"  initgit add README.mdgit commit -m "first commit"git branch -M master1git remote add origin https://github.com/Miftakhul-Ilman-Rifqi/bebas.gitgit push -u origin master1
